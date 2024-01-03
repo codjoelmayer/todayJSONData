@@ -5,35 +5,35 @@
             "lastName": "Henk",
             "age": 36,
             "gender": "Male",
-            "profile": "https://drive.google.com/file/d/1HqsIghYQgUoBPBrOJlLfR9ZyhwGO5Bfg"
+            "profile": "https://drive.google.com/uc?id=1HqsIghYQgUoBPBrOJlLfR9ZyhwGO5Bfg"
         },
         {
             "firstName": "Oslin",
             "lastName": "Johnson",
             "age": 30,
             "gender": "Male",
-            "profile": "https://drive.google.com/file/d/1HqsIghYQgUoBPBrOJlLfR9ZyhwGO5Bfg"
+            "profile": "https://drive.google.com/uc?id=1HqsIghYQgUoBPBrOJlLfR9ZyhwGO5Bfg"
         },
         {
             "firstName": "Lerato",
             "lastName": "John",
             "age": 28,
             "gender": "Female",
-            "profile": "https://drive.google.com/file/d/1HqsIghYQgUoBPBrOJlLfR9ZyhwGO5Bfg"
+            "profile": "https://drive.google.com/uc?id=1HqsIghYQgUoBPBrOJlLfR9ZyhwGO5Bfg"
         },
         {
             "firstName": "Jacob",
             "lastName": "Zuma",
             "age": 49,
             "gender": "Male",
-            "profile": "https://drive.google.com/file/d/1HqsIghYQgUoBPBrOJlLfR9ZyhwGO5Bfg"
+            "profile": "https://drive.google.com/uc?id=1HqsIghYQgUoBPBrOJlLfR9ZyhwGO5Bfg"
         },
         {
             "firstName": "Luc",
             "lastName": "Tata",
             "age": 20,
             "gender": "Male",
-            "profile": "https://drive.google.com/file/d/1HqsIghYQgUoBPBrOJlLfR9ZyhwGO5Bfg"
+            "profile": "https://drive.google.com/uc?id=1HqsIghYQgUoBPBrOJlLfR9ZyhwGO5Bfg"
         }
     ]
 }
